@@ -8,5 +8,9 @@ namespace WFTest
 {
     class Class2
     {
+        /// <summary>
+        /// 名称
+        /// </summary>
+        public string Name { get; set; }
     }
 }
